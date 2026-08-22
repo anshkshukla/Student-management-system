@@ -44,6 +44,7 @@ Enter the data of student
 2. Search existing data
 
 if student data exist , search the required details.
+
 ![App Screenshot](https://github.com/anshkshukla/Student-management-system/blob/main/Screenshot%202026-08-22%20103811.png?raw=true)
 
 3. Show all students existing data
