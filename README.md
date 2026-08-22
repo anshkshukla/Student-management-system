@@ -44,9 +44,12 @@ Enter the data of student
 2. Search existing data
 
 if student data exist , search the required details.
-
 ![App Screenshot](https://github.com/anshkshukla/Student-management-system/blob/main/Screenshot%202026-08-22%20103811.png?raw=true)
 
 3. Show all students existing data
 
 ![App Screenshot](https://github.com/anshkshukla/Student-management-system/blob/main/Screenshot%202026-08-22%20103828.png?raw=true)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anshkshukla.github.io/portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-shukla-7370a1377/)
+
